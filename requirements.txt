@@ -32,3 +32,9 @@ SONG OPTIONS
 2.set as ringtone
 3.delete
 4.purchase
+SONG TYPE
+1.latest
+2.top list
+3.melody
+4.movie wise
+5.theme wise
