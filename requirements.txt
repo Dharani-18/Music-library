@@ -1,5 +1,6 @@
 # Music-library
 It enables the user to listen variety of songs and download to their device.
+Login
 SETTINGS
 1.language
 2.latest
@@ -21,6 +22,7 @@ SONG DETAILS
 2.movie name
 3.artist name
 4.music director
+5.duration
 QUEUE
 1.repeat current song
 2.shuffle 
