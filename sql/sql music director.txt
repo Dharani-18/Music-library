@@ -1,0 +1,4 @@
+create table MUSIC_DIRECTOR(
+MDid varchar(255) primary key,
+MDname varchar(255)
+)

@@ -1,0 +1,4 @@
+select C.castid, FILMNAME,SONGNAME,C.CASTNAME FROM [dbo].[SONG_LIST] S
+join FILM F ON F.FILMID=S.FILMID 
+JOIN CAST_ C ON C.castid=S.castid
+WHERE C.castid='Ca5'
