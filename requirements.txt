@@ -1,12 +1,12 @@
 # Music-library
 It enables the user to listen variety of songs and download to their device.
+Login
 SETTINGS
 1.language
-2.latest
-3.top list
-4.melody
-5.movie wise
-6.Theme wise
+2.streaming quality
+3.download quality
+4.lyrics option
+5.logout
 MY MUSIC
 1.offline
 2.local mp3
@@ -16,16 +16,25 @@ SEARCH
 2.movie wise
 3.artist name
 4.song name
+5.theme wise
 SONG DETAILS
 1.song name
 2.movie name
 3.artist name
 4.music director
+5.duration
 QUEUE
 1.repeat current song
 2.shuffle 
 3.repeat all songs in queue
-Song OPTIONS
-1.set as ringtone
-2.delete
-3.purchase
+SONG OPTIONS
+1.play
+2.set as ringtone
+3.delete
+4.purchase
+SONG TYPE
+1.latest
+2.top list
+3.melody
+4.movie wise
+5.theme wise
